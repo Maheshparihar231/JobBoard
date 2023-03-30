@@ -11,10 +11,10 @@ api end point https://jsonplaceholder.typicode.com/users
     <td>Coursedetail Page</td>
   </tr>
   <tr>
-    <td><img src="screensshots/photo_2023-03-30_23-00-15.jpg" height="400em" /></td>
-    <td><img src="screensshots/photo_2023-03-30_23-00-11.jpg" height="400em" /></td>
-    <td><img src="screensshots/photo_2023-03-30_23-00-13.jpg" height="400em" /></td>
-    <td><img src="screensshots/photo_2023-03-30_23-00-09.jpg" height="400em" /></td>
+    <td><img src="screensshots/photo_2023-03-30_23-00-15.jpg" height="300em" /></td>
+    <td><img src="screensshots/photo_2023-03-30_23-00-11.jpg" height="300em" /></td>
+    <td><img src="screensshots/photo_2023-03-30_23-00-13.jpg" height="300em" /></td>
+    <td><img src="screensshots/photo_2023-03-30_23-00-09.jpg" height="300em" /></td>
   </tr>
  </table>
 
