@@ -22,7 +22,7 @@ export default function App() {
               return <FontAwesome name="graduation-cap" size={24} color={color} /> 
             }            
           },
-          tabBarActiveTintColor: 'red',
+          tabBarActiveTintColor: 'purple',
           tabBarInactiveTintColor: 'white',
           headerShown: false,
           tabBarStyle:{

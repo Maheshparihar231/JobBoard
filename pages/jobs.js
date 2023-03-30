@@ -10,8 +10,7 @@ function JobScreen({ navigation }) {
   const getUserData = async () => {
     try {
       const response = await fetch(
-        "https://thapatechnical.github.io/userapi/users.json"
-        //"https://jsonplaceholder.typicode.com/users"
+        "https://jsonplaceholder.typicode.com/users"
       )
       // .then(response=>response.json())
       // .then(data=>{
@@ -159,9 +158,10 @@ const styles = StyleSheet.create({
     height:80,
   },
   title:{
-    fontSize:20,
+    padding:1,
+    fontSize:15,
     color:"white",
-    marginBottom:8,
+    marginBottom:2,
   },
   position:{
     color:"white",
