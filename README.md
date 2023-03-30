@@ -1,2 +1,22 @@
 # JobBoard
-api used https://jsonplaceholder.typicode.com/users
+api end point https://jsonplaceholder.typicode.com/users
+
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>Job Page</td>
+    <td>Jobdetail Page</td>
+    <td>Course</td>
+    <td>Coursedetail Page</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Maheshparihar231/JobBoard/blob/master/screensshots/photo_2023-03-30_23-00-15.jpg" height="400em" /></td>
+    <td><img src="https://github.com/Maheshparihar231/JobBoard/blob/master/screensshots/photo_2023-03-30_23-00-11.jpg" height="400em" /></td>
+    <td><img src="https://github.com/Maheshparihar231/JobBoard/blob/master/screensshots/photo_2023-03-30_23-00-13.jpg" height="400em /></td>
+    <td><img src="https://github.com/Maheshparihar231/JobBoard/blob/master/screensshots/photo_2023-03-30_23-00-09.jpg" height="400em /></td>
+  </tr>
+ </table>
+
+
+
